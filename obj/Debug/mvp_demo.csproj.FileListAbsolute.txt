@@ -1,0 +1,10 @@
+C:\Users\Rustom\Documents\GitHub\mvp_demo\bin\Debug\mvp_demo.exe.config
+C:\Users\Rustom\Documents\GitHub\mvp_demo\bin\Debug\mvp_demo.exe
+C:\Users\Rustom\Documents\GitHub\mvp_demo\bin\Debug\mvp_demo.pdb
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\DrawingTests.MainModule.MainView.resources
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\mvp_demo.Properties.Resources.resources
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\DrawingTests.MainModule.Submodule.SubView.resources
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\DrawingTests.MainModule.Submodule.SubView2.resources
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\mvp_demo.csproj.GenerateResource.Cache
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\mvp_demo.exe
+C:\Users\Rustom\Documents\GitHub\mvp_demo\obj\Debug\mvp_demo.pdb
