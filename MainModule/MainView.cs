@@ -64,7 +64,7 @@ namespace DrawingTests.MainModule
             handler(this, EventArgs.Empty);
         }
 
-        public ISubView SubView { get { return this.subView; } }
+        public ISubView SubView { get { return this.subView1; } }
         public event EventHandler SwitchEventTriggered;
         public event EventHandler StopSwitchEventTriggered;
     }
